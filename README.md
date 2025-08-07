@@ -1,5 +1,6 @@
 
-<img src="https://raw.githubusercontent.com/pyvel26/pyvel26/main/assets/banner.jpg" alt="Estervelle Bennett | Platform Data Engineer" width="100%" />
+<img src="assets/banner.jpg" alt="Estervelle Bennett | Platform Data Engineer" width="100%" />
+
 
 ## 👋🏾 Hey, I'm Estervelle
 
