@@ -1,5 +1,5 @@
 
-<img src="assets/banner.jpg" alt="Estervelle Bennett | Platform Data Engineer" width="100%" />
+<img src="assets/Linkedin_PlatformDE_20250802_143918_0000.png" alt="Estervelle Bennett | Platform Data Engineer" width="100%" />
 
 
 ## 👋🏾 Hey, I'm Estervelle
