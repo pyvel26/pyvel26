@@ -2,14 +2,21 @@
 
 
 
-## 👋🏾 Hey, I'm Estervelle
+## 👋🏾 Hello!
 
-I started as a **data engineer** and transitioned into **platform engineering** to design and manage scalable, containerized systems from the ground up.
+I started my career as a **data engineer**, building pipelines that moved and transformed data for analytics and reporting.  
+Over time, those pipelines evolved into **full-fledged platforms** and I found myself just as interested in the **infrastructure, orchestration, and automation** as the data itself.  
 
-I'm focused on building real-world projects that combine **data pipeline architecture** with **infrastructure, automation, and observability**.
+With the help of AI and a lot of reflection, I realized I think like a **system builder**:  
+- How will this scale?  
+- How will teams interact with it?  
+- How can it run reliably without constant babysitting?  
+
+That shift led me deeper into **platform engineering**, where I design containerized, cloud-native systems that are scalable, observable, and maintainable. My goal is to bridge the gap between **data engineering** and **infrastructure engineering**, delivering platforms that empower teams to focus on insights, not plumbing.
 
 
-### 🔧 Tech I Work With
+
+### 🔧 Tech I Work With:
 
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
