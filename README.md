@@ -38,11 +38,13 @@ That shift led me deeper into **platform engineering**, where I design container
 
 
 #### Kubernetes Home Lab (k3s) - in progress
-Lightweight deployment of FastAPI + Postgres using Kubernetes. Includes readiness probes, resource limits, and CI/CD hooks.  
+6 containers ( Vector, Kafka, Postgres, Grafana Prometheus, Falco)
+Includes readiness probes, resource limits, and CI/CD hooks.  
 
 
 #### Observability Simulation - in progress
 Custom-built logging & metrics pipelines that simulate real-world observability workflows.  
+
 
 
 
