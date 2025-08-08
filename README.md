@@ -38,12 +38,13 @@ That shift led me deeper into **platform engineering**, where I design container
 
 
 #### Kubernetes Home Lab (k3s) - in progress
-6 containers ( Vector, Kafka, Postgres, Grafana Prometheus, Falco)
-Includes readiness probes, resource limits, and CI/CD hooks.  
+Lightweight Kubernetes cluster using k3s to simulate a production-like environment for running multiple containerized services.
+Includes namespace organization, service discovery, resource limits, health probes, and Helm-based deployments. The focus of this project
+is on platform engineering best practices rather than app development.  
 
 
 #### Observability Simulation - in progress
-Custom-built logging & metrics pipelines that simulate real-world observability workflows.  
+End-to-end observability stack designed to collect, store, and visualize logs and metrics from my own systems. 
 
 
 
