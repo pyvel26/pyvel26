@@ -37,7 +37,7 @@ That shift led me deeper into **platform engineering**, where I design container
 [View Project →](https://github.com/pyvel26/docker-lambda-data-platform)
 
 
-#### Kubernetes Home Lab (AKS + Minikube) - in progress
+#### Kubernetes Home Lab (AKS + k3s) - in progress
 Lightweight deployment of FastAPI + Postgres using Kubernetes. Includes readiness probes, resource limits, and CI/CD hooks.  
 
 
