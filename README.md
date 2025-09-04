@@ -34,7 +34,7 @@ That shift led me deeper into **platform engineering**, where I design container
 
 #### Dockerized Lambda Data Platform  
 8-container architecture simulating a lambda-style data flow — includes Kafka, FastAPI, Postgres, and monitoring stack.  
-[View Project →](https://github.com/pyvel26/docker-lambda-data-platform](https://github.com/pyvel26/Lambda-Inspired-Platform))
+[View Project →](https://github.com/pyvel26/Lambda-Inspired-Platform)
 
 
 #### Kubernetes Platform Migration - In Progress
