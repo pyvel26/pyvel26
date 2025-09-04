@@ -4,8 +4,8 @@
 
 ## 👋🏾 Hello!
 
-I started my career as a **data engineer**, building pipelines that moved and transformed data for analytics and reporting.  
-Over time, those pipelines evolved into **full-fledged platforms** and I found myself just as interested in the **infrastructure, orchestration, and automation** as the data itself.  
+I started my career as a **data engineer** building pipelines that moved and transformed data for analytics and reporting.  
+Over time, those pipelines evolved into **full-fledged platforms**, and I found myself just as interested in the **infrastructure, orchestration, and automation** as the data itself.  
 
 With the help of AI and a lot of reflection, I realized I think like a **system builder**:  
 - How will this scale?  
@@ -37,15 +37,12 @@ That shift led me deeper into **platform engineering**, where I design container
 [View Project →](https://github.com/pyvel26/docker-lambda-data-platform)
 
 
-#### Kubernetes Home Lab (k3s) - in progress
-Lightweight Kubernetes cluster using k3s to simulate a production-like environment for running multiple containerized services.
-Includes namespace organization, service discovery, resource limits, health probes, and Helm-based deployments. The focus of this project
-is on platform engineering best practices rather than app development.  
-
-
-#### Observability Simulation - in progress
-End-to-end observability stack designed to collect, store, and visualize logs and metrics from my own systems. 
-
+#### Kubernetes Platform Migration - In Progress
+Migrating the Lambda Data Platform from Docker Compose to Kubernetes (k3s) to explore:
+- Pod orchestration and service mesh patterns
+- Resource quotas and horizontal scaling
+- ConfigMaps and persistent volume management
+[View Progress →](link-when-ready)
 
 
 
