@@ -38,7 +38,7 @@ That shift led me deeper into **platform engineering**, where I design container
 [View Project →](https://github.com/pyvel26/Lambda-Inspired-Platform)
 
 
-#### Kubernetes Platform Migration - In Progress
+#### Kubernetes Platform Migration 
 Migrating the Lambda Data Platform from Docker Compose to Kubernetes (k3s) to explore:
 - Pod orchestration and service mesh patterns
 - Resource quotas and horizontal scaling
