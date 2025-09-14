@@ -39,7 +39,7 @@ That shift led me deeper into **platform engineering**, where I design container
 
 
 #### Kubernetes Platform Migration 
-Migrating the Lambda Data Platform from Docker Compose to Kubernetes (minikube)
+Migrated the Lambda Data Platform from Docker Compose to Kubernetes (minikube)
   
 [View Project →](https://github.com/pyvel26/Kubernetes-Project)
 
