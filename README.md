@@ -42,6 +42,8 @@ Migrating the Lambda Data Platform from Docker Compose to Kubernetes (k3s) to ex
 - Pod orchestration and service mesh patterns
 - Resource quotas and horizontal scaling
 - ConfigMaps and persistent volume management
+[View Project →](https://github.com/pyvel26/Kubernetes-Project)
+
 
 
 
